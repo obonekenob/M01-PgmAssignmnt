@@ -1,2 +1,2 @@
 # M01 Programming Assignment
-Jupy Notebook
+Jupyter Notebook
